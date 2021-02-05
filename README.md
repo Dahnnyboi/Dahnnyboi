@@ -1,15 +1,15 @@
 # Dahn Alfred S. Registrado
-[My Portfolio](https://dahnportfolio.gtsb.io/)
+Here is [my Portfolio](https://dahnportfolio.gtsb.io/)
 
-### Strongest Tech Stack
+##### Strongest Tech Stack
 ![Mongo](./Mongo.png)  ![Express](./Express.png)  ![React](./React.png)  ![Node](./Node.png)
-### Base Skill
+##### Base Skill
 ![HTML](./HTML.png)  ![CSS](./CSS.png)  ![JavaScript](./Javascript.png)
-### CSS Framework
+##### CSS Framework
 ![Bootstrap](./Bootstrap.png)  ![Tailwind](./Tailwind.png)
-### CSS Preprocessor
+##### CSS Preprocessor
 ![Sass](./Sass.png)
-### Databases
+##### Databases
 ![MySQL](./MySQL.png)
-### Tools
+##### Tools
 ![Git](./Git.png)  ![VSCode](./VSCode.png)
