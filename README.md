@@ -1,16 +1,20 @@
-### Hi there 👋
+# Dahn Alfred S. Registrado
+[My Portfolio](https://dahnportfolio.gtsb.io/)
 
-<!--
-**Dahnnyboi/Dahnnyboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Strongest Tech Stack
+![Mongo](./Mongo.png)  ![Express](./Express.png)  ![React](./React.png)  ![Node](./Node.png)
 
-Here are some ideas to get you started:
+### Base Skill
+![HTML](./HTML.png)  ![CSS](./CSS.png)  ![JavaScript](./Javascript.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CSS Framework
+![Bootstrap](./Bootstrap.png)  ![Tailwind](./Tailwind.png)
+
+### CSS Preprocessor
+![Sass](./Sass.png)
+
+### Databases
+![MySQL](./MySQL.png)
+
+### Tools
+![Git](./Git.png)  ![VSCode](./VSCode.png)
